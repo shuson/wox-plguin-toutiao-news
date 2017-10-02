@@ -6,5 +6,5 @@ A plugin to lastest and news by categories from toutiao.com
 ```
 tou // latest news
 tou kj // tech
-tt ty // sports
+tou ty // sports
 ```

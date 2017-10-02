@@ -1,0 +1,12 @@
+{
+  "ID":"e9cd578088f514e5bx7e851f2276z7e3",
+  "ActionKeyword":"tou",
+  "Name":"Toutiao News",
+  "Description":"Today toutiao news",
+  "Author":"nevermoi",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"https://github.com/shuson/wox-plugin-toutiao-news",
+  "IcoPath": "img\\tt.png",
+  "ExecuteFileName":"tt.py"
+}

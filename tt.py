@@ -45,6 +45,7 @@ class Main(Wox):
         
 	result = []
 	for x in range(len(news)):
+	    if news[x]['is_feed_ad']: continue
             post = {
                     'Title': news[x]['title'],
                     'SubTitle': news[x]['abstract'],
